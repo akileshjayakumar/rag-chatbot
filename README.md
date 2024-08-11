@@ -14,7 +14,7 @@ This chatbot was developed and deployed on Hugging Face Spaces, utilizing the Qd
 
 ## Getting Started
 
-Want to run the chatbot locally? Follow these simple steps:
+Want to run the chatbot locally? Follow these steps:
 
 1. **Clone the repository**:
    ```bash
