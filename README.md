@@ -6,11 +6,11 @@ This chatbot was developed and deployed on Hugging Face Spaces, utilizing the Qd
 
 ### Live Demo
 
-Experience the chatbot in action by visiting the live site: [Personalized RAG Chatbot Live Demo](https://huggingface.co/spaces/akileshjayakumar/rag-chatbot)
+[Personalized RAG Chatbot Live Site](https://huggingface.co/spaces/akileshjayakumar/rag-chatbot)
 
 ### Source Code
 
-Interested in how it works? Check out the source code and contribute to the project on Hugging Face: [Personalized RAG Chatbot Repository](https://huggingface.co/spaces/akileshjayakumar/rag-chatbot/tree/main)
+[Personalized RAG Chatbot Repository](https://huggingface.co/spaces/akileshjayakumar/rag-chatbot/tree/main)
 
 ## Getting Started
 
