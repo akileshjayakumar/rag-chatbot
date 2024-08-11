@@ -1,4 +1,4 @@
-# Personalized RAG Chatbot
+# Personalised RAG Chatbot
 
 ## Overview
 
