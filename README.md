@@ -2,7 +2,7 @@
 
 ## Overview
 
-This chatbot was developed and deployed on Hugging Face Spaces, utilizing the Qdrant vector store for enhanced retrieval and personalization. It's a tool designed to let users interactively learn more about me and my work through natural language queries.
+This chatbot was developed and deployed on Hugging Face Spaces, utilizing the Qdrant vector store. It's a tool designed to let users interactively learn more about me and my work through QA tasks
 
 ### Live Demo
 
@@ -20,6 +20,9 @@ Want to run the chatbot locally? Follow these steps:
    ```bash
    git clone https://huggingface.co/spaces/akileshjayakumar/rag-chatbot
    ```
+   ```bash
+   cd rag-chatbot
+   ```
 
 2. **Install dependencies**:
    ```bash
@@ -30,4 +33,3 @@ Want to run the chatbot locally? Follow these steps:
    ```bash
    python app.py
    ```
-
